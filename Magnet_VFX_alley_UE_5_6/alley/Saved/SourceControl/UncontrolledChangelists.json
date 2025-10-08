@@ -1,0 +1,28 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Srf.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/Fab/Megascans/Surfaces/Rough_Brick_Wall_tgkrajkaw/High/tgkrajkaw_tier_1/Materials/MI_tgkrajkaw_Inst1.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/_GENERATED/kcoope47/Box_F8D0C808.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/Fab/Megascans/Surfaces/Rough_Brick_Wall_tgkrajkaw/High/tgkrajkaw_tier_1/Materials/MI_tgkrajkaw.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/Alleyway.umap",
+				"C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/AlleyWaySequence.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/_GENERATED/kcoope47/Cylinder_EC53AD76.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/_GENERATED/kcoope47/Box_C565D5FB.uasset",
+				"C:/Users/kcoope47/Documents/AlleyRepo/Magnet_VFX_alley_UE_5_6/alley/Content/_GENERATED/kcoope47/Boolean_2D96E93A.uasset",
+				"E:/Program Files/Epic Games/UE_5.6/Engine/Plugins/Fab/Content/Materials/Standard/M_MS_Srf.uasset",
+				"E:/alley/Content/allay.umap",
+				"E:/alley/Content/allay_sequence.uasset",
+				"E:/alley/Content/_GENERATED/Magnet/Boolean_25C862A9.uasset",
+				"E:/alley/Content/_GENERATED/Magnet/Cylinder_FD31295E.uasset",
+				"E:/alley/Content/_GENERATED/Magnet/Boolean_6E846B3C.uasset"
+			]
+		}
+	]
+}
